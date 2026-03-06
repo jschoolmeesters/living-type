@@ -12,7 +12,7 @@ Probably later:
 - [ ] Apply these patterns to a [Hershey font](https://paulbourke.net/dataformats/hershey/) to create a typeface typeface **with** contrast
 	- [ ] For now I can use a OTF version of a Hershey font called [Relief SingleLine](https://github.com/isdat-type/Relief-SingleLine/tree/main) to simulate what using an actual single line would look like
 	- [ ] Requires converting individual Hershey font letters to SVG, and then into points
-## Where am I currently at
+## Where I'm currently at
 ---
 I finished a tool that lets me load any OTF/TTF font and obtain evenly spaced out points along the outlines of each letter. I can use these as starting points for the organic growth I want to simulate using [Diffusion Limited Aggregation (DLA)](https://en.wikipedia.org/wiki/Diffusion-limited_aggregation) (probably).
 ## Notes
